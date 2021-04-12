@@ -59,6 +59,7 @@
 // - Filters results to kb articles within the current kb_category (and child categories of kb_category) 
 // - Adds historical_depth_in_days option so the results can be retrieved from the most recently created articles
 //
+//
 (function() {
 	data.articles = [];
 	options.title = options.title || gs.getMessage("Most Viewed Articles");
@@ -182,7 +183,7 @@ function getKbId(){
         <sys_created_on>2020-06-03 04:17:53</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>43a1e927db8114d0bb5a4a2813961962</sys_id>
-        <sys_mod_count>44</sys_mod_count>
+        <sys_mod_count>45</sys_mod_count>
         <sys_name>GDEP KB Most Viewed</sys_name>
         <sys_package display_value="GDEP" source="470c1443db2f0858eeb32ad94b9619de">470c1443db2f0858eeb32ad94b9619de</sys_package>
         <sys_policy/>
@@ -190,7 +191,7 @@ function getKbId(){
         <sys_scope display_value="GDEP">470c1443db2f0858eeb32ad94b9619de</sys_scope>
         <sys_update_name>sp_widget_43a1e927db8114d0bb5a4a2813961962</sys_update_name>
         <sys_updated_by>snamjoshi</sys_updated_by>
-        <sys_updated_on>2020-12-28 18:42:32</sys_updated_on>
+        <sys_updated_on>2021-04-12 15:47:50</sys_updated_on>
         <template><![CDATA[<sp-panel style="width:90%";>
   <ul class="list-group" style="border:0px;">
     <div ng-if="c.data.articles.length ==0" class="secondary-info">
