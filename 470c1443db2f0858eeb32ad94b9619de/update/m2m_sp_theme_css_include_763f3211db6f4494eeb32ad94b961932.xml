@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_theme_css_include">
+    <m2m_sp_theme_css_include action="INSERT_OR_UPDATE">
+        <order>0</order>
+        <sp_css_include display_value="GD Fonts">f0ce3a9ddb2f4494eeb32ad94b9619c4</sp_css_include>
+        <sp_theme display_value="GDEP Theme">8d2671c1db63cc54eeb32ad94b9619d8</sp_theme>
+        <sys_class_name>m2m_sp_theme_css_include</sys_class_name>
+        <sys_created_by>jbenedetti</sys_created_by>
+        <sys_created_on>2020-03-13 21:46:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>763f3211db6f4494eeb32ad94b961932</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>GD Fonts.GDEP Theme</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GDEP">470c1443db2f0858eeb32ad94b9619de</sys_scope>
+        <sys_update_name>m2m_sp_theme_css_include_763f3211db6f4494eeb32ad94b961932</sys_update_name>
+        <sys_updated_by>iremigio</sys_updated_by>
+        <sys_updated_on>2020-07-14 18:45:02</sys_updated_on>
+    </m2m_sp_theme_css_include>
+</record_update>
